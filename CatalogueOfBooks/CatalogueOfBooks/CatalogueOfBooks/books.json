@@ -1,0 +1,26 @@
+[
+  {
+    "ISBN": "5",
+    "Title": "Joao",
+    "DateOfPublication": "2019-10-22T00:00:00",
+    "Publisher": "Dubliner",
+    "Authors": [
+      "Test"
+    ],
+    "Genre": "Drama",
+    "TotalCopies": 115,
+    "AvailableCopies": 114
+  },
+  {
+    "ISBN": "10",
+    "Title": "Warrior",
+    "DateOfPublication": "1998-05-22T00:00:00",
+    "Publisher": "Dublin",
+    "Authors": [
+      "J.S Cloin"
+    ],
+    "Genre": "Drama",
+    "TotalCopies": 500,
+    "AvailableCopies": 500
+  }
+]

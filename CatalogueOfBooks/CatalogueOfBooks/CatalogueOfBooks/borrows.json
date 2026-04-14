@@ -1,0 +1,35 @@
+[
+  {
+    "RecordId": "bce3ae56-8870-47d9-93d1-f354093fd73d",
+    "ISBN": "5",
+    "BookTitle": "Joao",
+    "BorrowerName": "Joao",
+    "BorrowDate": "2026-04-14T00:00:00+01:00",
+    "DueDate": "2026-04-24T00:00:00+01:00",
+    "ReturnDate": null,
+    "IsReturned": false,
+    "IsOverdue": false
+  },
+  {
+    "RecordId": "d5d8f422-ba86-4569-a19c-5c4d0c4d45ec",
+    "ISBN": "10",
+    "BookTitle": "Warrior",
+    "BorrowerName": "Joao",
+    "BorrowDate": "2026-04-14T00:00:00+01:00",
+    "DueDate": "2026-04-24T00:00:00+01:00",
+    "ReturnDate": "2026-04-14T00:00:00+01:00",
+    "IsReturned": true,
+    "IsOverdue": false
+  },
+  {
+    "RecordId": "c3359fdf-07bf-489d-9d5d-bb0e0d451b30",
+    "ISBN": "10",
+    "BookTitle": "Warrior",
+    "BorrowerName": "Joao",
+    "BorrowDate": "2026-04-14T00:00:00+01:00",
+    "DueDate": "2026-04-24T00:00:00+01:00",
+    "ReturnDate": "2026-04-14T00:00:00+01:00",
+    "IsReturned": true,
+    "IsOverdue": false
+  }
+]

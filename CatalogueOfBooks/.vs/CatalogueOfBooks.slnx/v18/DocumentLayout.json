@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joao_\\Desktop\\JoaoMarcosCarniel_AlgorithmAndDataStructure_B7IS115\\CatalogueOfBooks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1CEEDA5-1F38-6A59-BD7B-69CC384A2311}|CatalogueOfBooks\\CatalogueOfBooks.csproj|c:\\users\\joao_\\desktop\\joaomarcoscarniel_algorithmanddatastructure_b7is115\\catalogueofbooks\\catalogueofbooks\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1CEEDA5-1F38-6A59-BD7B-69CC384A2311}|CatalogueOfBooks\\CatalogueOfBooks.csproj|solutionrelative:catalogueofbooks\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\joao_\\Desktop\\JoaoMarcosCarniel_AlgorithmAndDataStructure_B7IS115\\CatalogueOfBooks\\CatalogueOfBooks\\UI\\MainMenu.cs",
+              "RelativeDocumentMoniker": "CatalogueOfBooks\\UI\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\joao_\\Desktop\\JoaoMarcosCarniel_AlgorithmAndDataStructure_B7IS115\\CatalogueOfBooks\\CatalogueOfBooks\\UI\\MainMenu.cs",
+              "RelativeToolTip": "CatalogueOfBooks\\UI\\MainMenu.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAywEYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T14:33:52.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

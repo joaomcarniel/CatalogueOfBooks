@@ -1,0 +1,14 @@
+[
+  {
+    "ISBN": "5",
+    "Title": "Joao",
+    "DateOfPublication": "2020-10-22T00:00:00",
+    "Publisher": "Dublin",
+    "Authors": [
+      "Joao"
+    ],
+    "Genre": "Drama",
+    "TotalCopies": 5,
+    "AvailableCopies": 5
+  }
+]
