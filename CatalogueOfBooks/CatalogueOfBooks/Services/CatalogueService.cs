@@ -143,8 +143,11 @@ namespace CatalogueOfBooks.Services
                 .Where(r => r.ISBN == isbn && !r.IsFulfilled)
                 .OrderBy(r => r.ReservationDate)
                 .FirstOrDefault();
-            if (pending != null) pending.IsFulfilled = true;
-
+            if (pending != null)
+            {
+                pending.IsFulfilled = true;
+                BorrowBook(pending.ISBN, pending.ReservedBy);
+            }
             _storage.SaveBooks(_books);
             _storage.SaveBorrows(_borrows);
             _storage.SaveReservations(_reservations);

@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "ReservationId": "cb6b1d11-51ff-46f0-b97e-7efd62f0828b",
+    "ISBN": "3",
+    "BookTitle": "Crime and Punishment",
+    "ReservedBy": "Joao 6",
+    "ReservationDate": "2026-04-15T00:00:00+01:00",
+    "IsFulfilled": true
+  },
+  {
+    "ReservationId": "d4393064-ada2-41c4-a368-b1324171927a",
+    "ISBN": "3",
+    "BookTitle": "Crime and Punishment",
+    "ReservedBy": "Thiago",
+    "ReservationDate": "2026-04-15T00:00:00+01:00",
+    "IsFulfilled": true
+  }
+]

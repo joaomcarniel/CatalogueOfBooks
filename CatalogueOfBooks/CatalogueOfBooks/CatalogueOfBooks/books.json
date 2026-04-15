@@ -1,26 +1,38 @@
 [
   {
-    "ISBN": "5",
-    "Title": "Joao",
-    "DateOfPublication": "2019-10-22T00:00:00",
-    "Publisher": "Dubliner",
+    "ISBN": "1",
+    "Title": "1984",
+    "DateOfPublication": "1949-06-08T00:00:00",
+    "Publisher": "Secker \u0026 Warburg",
     "Authors": [
-      "Test"
+      "George Orwell"
     ],
-    "Genre": "Drama",
-    "TotalCopies": 115,
-    "AvailableCopies": 114
+    "Genre": "Fiction",
+    "TotalCopies": 25,
+    "AvailableCopies": 25
   },
   {
-    "ISBN": "10",
-    "Title": "Warrior",
-    "DateOfPublication": "1998-05-22T00:00:00",
-    "Publisher": "Dublin",
+    "ISBN": "2",
+    "Title": "Thus Spoke Zarathustra",
+    "DateOfPublication": "1883-01-01T00:00:00",
+    "Publisher": "Nietzsche",
     "Authors": [
-      "J.S Cloin"
+      "Friedrich Nietzsche"
     ],
-    "Genre": "Drama",
-    "TotalCopies": 500,
-    "AvailableCopies": 500
+    "Genre": "Philosofy",
+    "TotalCopies": 5,
+    "AvailableCopies": 5
+  },
+  {
+    "ISBN": "3",
+    "Title": "Crime and Punishment",
+    "DateOfPublication": "1866-01-01T00:00:00",
+    "Publisher": "N/A",
+    "Authors": [
+      "Fyodor Dostoevsky"
+    ],
+    "Genre": "Novel",
+    "TotalCopies": 3,
+    "AvailableCopies": 0
   }
 ]

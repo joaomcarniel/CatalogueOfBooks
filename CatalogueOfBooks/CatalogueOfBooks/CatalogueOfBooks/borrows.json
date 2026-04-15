@@ -6,8 +6,8 @@
     "BorrowerName": "Joao",
     "BorrowDate": "2026-04-14T00:00:00+01:00",
     "DueDate": "2026-04-24T00:00:00+01:00",
-    "ReturnDate": null,
-    "IsReturned": false,
+    "ReturnDate": "2026-04-15T00:00:00+01:00",
+    "IsReturned": true,
     "IsOverdue": false
   },
   {
@@ -30,6 +30,61 @@
     "DueDate": "2026-04-24T00:00:00+01:00",
     "ReturnDate": "2026-04-14T00:00:00+01:00",
     "IsReturned": true,
+    "IsOverdue": false
+  },
+  {
+    "RecordId": "bfe70083-0369-4c15-b4bc-6304e6dd1d28",
+    "ISBN": "3",
+    "BookTitle": "Crime and Punishment",
+    "BorrowerName": "Joao",
+    "BorrowDate": "2026-04-15T00:00:00+01:00",
+    "DueDate": "2026-04-25T00:00:00+01:00",
+    "ReturnDate": "2026-04-15T00:00:00+01:00",
+    "IsReturned": true,
+    "IsOverdue": false
+  },
+  {
+    "RecordId": "7c555d9c-c724-4b70-b366-b695c0ca7e1d",
+    "ISBN": "3",
+    "BookTitle": "Crime and Punishment",
+    "BorrowerName": "Joao 2",
+    "BorrowDate": "2026-04-15T00:00:00+01:00",
+    "DueDate": "2026-04-25T00:00:00+01:00",
+    "ReturnDate": "2026-04-15T00:00:00+01:00",
+    "IsReturned": true,
+    "IsOverdue": false
+  },
+  {
+    "RecordId": "9851a6a3-7459-4d0b-85ae-c1770c9bbf80",
+    "ISBN": "3",
+    "BookTitle": "Crime and Punishment",
+    "BorrowerName": "Joao 3",
+    "BorrowDate": "2026-04-15T00:00:00+01:00",
+    "DueDate": "2026-04-25T00:00:00+01:00",
+    "ReturnDate": null,
+    "IsReturned": false,
+    "IsOverdue": false
+  },
+  {
+    "RecordId": "d12021d0-14cb-40dc-8bd7-94e16af0bebf",
+    "ISBN": "3",
+    "BookTitle": "Crime and Punishment",
+    "BorrowerName": "Julia",
+    "BorrowDate": "2026-04-15T00:00:00+01:00",
+    "DueDate": "2026-04-25T00:00:00+01:00",
+    "ReturnDate": null,
+    "IsReturned": false,
+    "IsOverdue": false
+  },
+  {
+    "RecordId": "46e940b9-1ab0-44bc-998e-c5cdb3c08a32",
+    "ISBN": "3",
+    "BookTitle": "Crime and Punishment",
+    "BorrowerName": "Thiago",
+    "BorrowDate": "2026-04-15T00:00:00+01:00",
+    "DueDate": "2026-04-25T00:00:00+01:00",
+    "ReturnDate": null,
+    "IsReturned": false,
     "IsOverdue": false
   }
 ]
